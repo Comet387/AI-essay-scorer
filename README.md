@@ -335,14 +335,10 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU Affero General Public License v3.0 License.
 
 ## 🙏 Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)
 - Powered by [OpenAI](https://openai.com/) and compatible APIs
 - Database management with [Prisma](https://www.prisma.io/)
-
----
-
-**Made for educators and students**
